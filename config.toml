@@ -18,12 +18,3 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.y
 excluded-patches = """\
   'Custom branding' \
   """
-
-[Gboard]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/gboard/"
-patches-source = "jkennethcarino/adobo"
-integrations-source = "jkennethcarino/revanced-integrations"
-rv-brand = "jkennethcarino ReVanced"
-version = "latest"
-included-patches = "'Toggle feature flags'"
-
