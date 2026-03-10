@@ -18,6 +18,7 @@ excluded-patches = "'Custom branding'"
 
 [Gboard]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/gboard"
+uptodown-dlurl = "https://gboard-go.en.uptodown.com/android"
 patches-source = "jkennethcarino/adobo"
 integrations-source = "jkennethcarino/revanced-integrations"
 rv-brand = "jkennethcarino ReVanced"
